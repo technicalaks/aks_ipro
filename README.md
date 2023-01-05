@@ -1,6 +1,6 @@
 ## • What's New ?
 
-- ⟴ URL Shortener Added
+- ⟴ Without URL Shortener
 - ⟴ Self Delete Added (Auto delete)
 - ⟴ Filter On Off Option Added
 - ⟴ Custom Welcome Message
@@ -12,11 +12,8 @@
 
 
 
-<p align="center">
-  <img src="https://github.com/GreyMattersBot/url-auto-delete-shortener-bot/blob/main/assets/IMG_20220105_010453-removebg-preview.png" alt="GreyMatter's Bot Logo">
-</p>
 <h1 align="center">
-  <b>GreyMatter's Bot</b>
+  <b>Imdb_updates</b>
 </h1>
 
 
@@ -67,7 +64,6 @@ Read [this](https://telegram.dog/sources_cods) before you start messing up with 
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/RWs6sh8m2Uk)**</i>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
@@ -81,7 +77,6 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/GreyMattersbot/url-auto-delete-shortener-bot
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -120,17 +115,13 @@ batch - to create link for multiple posts
 link - to create link for one post
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/greymatters_bots_discussion)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/greymatter_bots)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/aks_bot_support)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/Imdb_updates)
 
 ## Credits 
-* [![ᎯℕUℛᎯᎶ](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/sources_cods)
+* [![Aks](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/aks_bot_support)
 
 
-## Thanks to 
- - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
- - Thanks To [AKS](https://telegram.dog/gurubhai11) for his awesome Auto-delete Feature.
- - Thanks To All Everyone In This Journey
 
 ### Note
 
