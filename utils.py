@@ -189,6 +189,7 @@ async def search_gagala(text):
                 'User-Agent': random.choice(agent_list)
                 }
             response = requests.get(url, headers=usr_agent)
+            logging.info(f"Used agent = {usr_agent['User-Agent']}")
             success = True
         except Exception as e:
             wait = retries * 10
